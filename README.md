@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satish Kumar Singh.
-- 👀 I’m interested in 'Web Developement' && "AI  ML" && "Graphics Designing".
+- 👀 I’m interested in 'Web Developement' && "Data Science" && "Graphics Designing".
 - 🌱 I’m currently persuing CSE(B-Tech) from Lovely Professional University, Jalandhar, Punjab.
 - 📫 Contact me :
   Mail : satishsingh8757@gmail.com
