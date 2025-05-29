@@ -3,7 +3,6 @@
 - Working on react, dot net, SSRS RDLC, java
 - 📫 Contact me :
   Mail : satishsingh8757@gmail.com
-  ; Call || Whatsapp : +91-8757073613
 
 <!---
 Satishkumarsingh0/Satishkumarsingh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
