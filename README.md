@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satish Kumar Singh.
-- 👀 I’m interested in 'Web Developement' && "Data Science" && "Graphics Designing".
-- 🌱 I’m currently persuing CSE(B-Tech) from Lovely Professional University, Jalandhar, Punjab.
+- 🌱 I’m currently working as software developer at TCS.
+- Working on react, dot net, SSRS RDLC, java
 - 📫 Contact me :
   Mail : satishsingh8757@gmail.com
   ; Call || Whatsapp : +91-8757073613
